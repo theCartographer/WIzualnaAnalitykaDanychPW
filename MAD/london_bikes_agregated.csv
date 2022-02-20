@@ -1,4 +1,4 @@
-Date,Ranted,Temp1,Temp2,Humidity,Wind_speed,Weather_code,Is_holiday,Is_weekend,Season
+Date,Rented,Temp1,Temp2,Humidity,Wind_speed,Weather_code,Is_holiday,Is_weekend,Season
 04.01.2015,9234,2.5,0.6,94.3,7.5,1,0,1,3
 05.01.2015,20372,8,6.7,80.3,8.9,3,0,0,3
 06.01.2015,20613,7.9,5.3,78.9,16,1,0,0,3
